@@ -14,5 +14,5 @@ app.get('/',(req,res)=>{
     res.render('home.ejs');
 })
 app.listen('3000',()=>{
-    console.log('Hello');
+    console.log('Lun laylo behchowd');
 })
